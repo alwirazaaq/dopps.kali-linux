@@ -17,7 +17,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 |-----------------------------------------------|----------------------------|
 | Testing vulnerabilities using sql injection                  | <a href="https://github.com/alwirazaaq/Detection-lab/blob/main/README.md">Detection Lab</a>|
 | Testing vulnerabilities using sql injection blind            | <a href="https://github.com/alwirazaaq/Detection-lab/blob/main/README.md">Detection Lab</a>|
-| Knowing vulnerabilities through xss (Reflected, Stored, Dom) | <a href="https://github.com/alwirazaaq/Detection-lab/blob/main/README.md">Detection Lab 3</a>|
+| Knowing vulnerabilities through xss (Reflected, Stored, Dom) | <a href="https://github.com/alwirazaaq/Detection-lab/blob/main/README.md">Detection Lab</a>|
 | Weak session id                                              | <a href="https://github.com/alwirazaaq/Detection-lab/blob/main/README.md">Detection Lab</a>|
 | Disadvantages of including local & remote files              | <a href="https://github.com/alwirazaaq/Detection-lab/blob/main/README.md">Detection Lab</a>|
 | Knowing vulnerabilities through javascript attacks           | <a href="https://github.com/alwirazaaq/Detection-lab/blob/main/README.md">Detection Lab</a>|
