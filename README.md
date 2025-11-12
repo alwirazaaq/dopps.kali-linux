@@ -15,12 +15,12 @@ Perjalanan saya dalam ilmu komputer telah menuntun saya untuk mengembangkan mina
 
 | Keterampilan                                         | Proyek Terkait         |
 |-----------------------------------------------|----------------------------|
-| Testing vulnerabilities using sql injection                  | <a href="https://github.com/alwirazaaq/Detection-lab/blob/main/README.md">Detection Lab</a>|
-| Testing vulnerabilities using sql injection blind            | <a href="https://github.com/alwirazaaq/Detection-lab/blob/main/README.md">Detection Lab</a>|
-| Knowing vulnerabilities through xss (Reflected, Stored, Dom) | <a href="https://github.com/alwirazaaq/Detection-lab/blob/main/README.md">Detection Lab</a>|
-| Weak session id                                              | <a href="https://github.com/alwirazaaq/Detection-lab/blob/main/README.md">Detection Lab</a>|
-| Disadvantages of including local & remote files              | <a href="https://github.com/alwirazaaq/Detection-lab/blob/main/README.md">Detection Lab</a>|
-| Knowing vulnerabilities through javascript attacks           | <a href="https://github.com/alwirazaaq/Detection-lab/blob/main/README.md">Detection Lab</a>|
+| Testing vulnerabilities using sql injection                  | <a href="https://github.com/alwirazaaq/Detection-lab/blob/main/README.md">Detection Lab 1</a>|
+| Testing vulnerabilities using sql injection blind            | <a href="https://github.com/alwirazaaq/Detection-lab/blob/main/README.md">Detection Lab 1</a>|
+| Knowing vulnerabilities through xss (Reflected, Stored, Dom) | <a href="https://github.com/alwirazaaq/Detection-lab/blob/main/README.md">Detection Lab 1</a>|
+| JavaScript Attack testing                                    | <a href="https://github.com/alwirazaaq/Detection-lab2/blob/main/README.md">Detection Lab 2</a>|
+| Open HTTP Redirect Test Report                               | <a href="https://github.com/alwirazaaq/Detection-lab2/blob/main/README.md">Detection Lab 2</a>|
+| Authorization Bypass Test Report                             | <a href="https://github.com/alwirazaaq/Detection-lab2/blob/main/README.md">Detection Lab 2</a>|
 
 ## Tools
 
