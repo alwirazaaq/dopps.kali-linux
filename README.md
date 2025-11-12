@@ -1,19 +1,19 @@
-# Hello, I'm Alwirazaq
+# Hallo, Saya Alwirazaq
 <a href="https://www.linkedin.com/in/alwi-razaq-a3b446299/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 
-I want to make a career change into the IT world with a deep interest in technology and a dedication to solving complex problems.
+Saya ingin berganti karier di dunia TI dengan minat mendalam terhadap teknologi dan dedikasi dalam memecahkan masalah kompleks.
 
-## Objective
-
-
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
-
-## Skills
+## Tujuan
 
 
-| Skill                                         | Associated Project         |
+Perjalanan saya dalam ilmu komputer telah menuntun saya untuk mengembangkan minat terhadap keamanan siber, dan kini saya bersemangat untuk beralih ke bidang ini, khususnya bercita-cita untuk bergabung dengan Pusat Operasi Keamanan (SOC) sebagai Analis Tingkat 1.
+
+## Keterampilan
+
+
+| Keterampilan                                         | Proyek Terkait         |
 |-----------------------------------------------|----------------------------|
 | Testing vulnerabilities using sql injection                  | <a href="https://github.com/alwirazaaq/Detection-lab/blob/main/README.md">Detection Lab</a>|
 | Testing vulnerabilities using sql injection blind            | <a href="https://github.com/alwirazaaq/Detection-lab/blob/main/README.md">Detection Lab</a>|
@@ -52,12 +52,12 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Sqlmap-4B275F?&style=for-the-badge&logo=Sqlmap&logoColor=white" />
 </div>
 
-## Certifications
+## Sertifikasi
 
 <div>
 <img src="https://img.shields.io/badge/CEH-Certified%20Ethical%20Hacker-CC0000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAABHFBMVEUAAAD///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////8Xl2O9AAAAYXRSTlMAAQIDBAUGBwgJCgsMDQ4PEBESExQVFhcYGRobHB0eHyAhIiMkJSYnKCkqKywtLi8wMTIzNDU2Nzg5Ojs8PT4/QEFCQ0RFRkdISUpLTE1OT1BRUlNUVVZXWFlaW1xdXl9gYWJjZGVmaWprbG1ub3BxcnN0dXZ3eHl6e3x+f4GChYaIiYqLjI2Oj5CRkpOUlZaXmJmam9jd3t/gpKWmqKur7CxsrO0tba3uLm6u7y9vr/AwcLDxMXGx8jKy8zNzs/Q0dLT1NXW19jZ2tvc3d7f4OHi5OXl5+jp6+zt7u/w8fLz9PX29/j5+vv8/f7+5LVmiA" />
 <div>
 
-## Projects
+## Proyek
 - Detection Lab
   
