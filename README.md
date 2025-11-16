@@ -56,6 +56,8 @@ Perjalanan saya dalam ilmu komputer telah menuntun saya untuk mengembangkan mina
 
 <div>
 <img src="https://img.shields.io/badge/CEH-Certified%20Ethical%20Hacker-CC0000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAABHFBMVEUAAAD///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////8Xl2O9AAAAYXRSTlMAAQIDBAUGBwgJCgsMDQ4PEBESExQVFhcYGRobHB0eHyAhIiMkJSYnKCkqKywtLi8wMTIzNDU2Nzg5Ojs8PT4/QEFCQ0RFRkdISUpLTE1OT1BRUlNUVVZXWFlaW1xdXl9gYWJjZGVmaWprbG1ub3BxcnN0dXZ3eHl6e3x+f4GChYaIiYqLjI2Oj5CRkpOUlZaXmJmam9jd3t/gpKWmqKur7CxsrO0tba3uLm6u7y9vr/AwcLDxMXGx8jKy8zNzs/Q0dLT1NXW19jZ2tvc3d7f4OHi5OXl5+jp6+zt7u/w8fLz9PX29/j5+vv8/f7+5LVmiA" />
+<img src="https://img.shields.io/badge/Python-Introduction%20to%20Python%20Programming-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    
 <div>
     
 ![ECC-CEH-Certificate_page-0001](https://github.com/user-attachments/assets/66e1aa1e-43f9-4e85-819a-cc1ec4aacb7b)
@@ -63,6 +65,7 @@ Perjalanan saya dalam ilmu komputer telah menuntun saya untuk mengembangkan mina
 ![Certificate python binus_page-0001](https://github.com/user-attachments/assets/40a11d0a-41bb-4e1b-925f-5ab2d38e15fd)
 
 
+![Python Binus Certificate_page-0001](https://github.com/user-attachments/assets/2c185bc3-dcff-4c19-a22c-4ae7c9b3ca11)
 
 ## Proyek
 - Detection Lab
